@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: logger-view-service
+Implementation-Version: 1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: WChen129
+Implementation-Vendor-Id: com.jnj.adf
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/logger-view-
+ parent/logger-view-service/
+Implementation-Vendor: Pivotal Software, Inc.
+
